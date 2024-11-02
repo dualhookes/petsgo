@@ -3,7 +3,7 @@ Usernames = {
     "2nd user",
     "3rd user",
     -- Add more users below if you want to
-    -- "user4",
+    -- "user41",
     -- "user5",
 }
 min_rap = 100000 -- minimum rap of each item you want to get sent to you. 1k by default
